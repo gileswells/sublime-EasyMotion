@@ -40,11 +40,13 @@ This branch will have features that are marked as fixed in the issue, but haven'
 
 There is experimental support for Sublime Text 3 on the `st3` branch that requires manual installation and the use of the `st3` branch.
 
+    Mac
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    Windows (using Git Bash)
+    cd /C/Users/USERNAME/AppData/Roaming/Sublime\ Text\ 3/Packages
     git clone git://github.com/tednaleid/sublime-EasyMotion.git EasyMotion
     cd EasyMotion
     git checkout st3
-    
 
 ## Usage
 
